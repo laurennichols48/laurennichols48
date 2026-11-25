@@ -5,6 +5,13 @@ My projects span empirical economics, model training and evaluation, and convers
 
 ## Selected projects
 
+### [Collaborative ML research: evaluating synthetic LLM populations](https://github.com/laurennichols48/synthetic-population-evaluation)
+
+A team research project studying demographic alignment, calibration, stereotype flattening and behavioral validity in synthetic LLM populations. I worked on **model training and evaluation**. Includes the research report and notebook archive.
+
+**Team:** Pierre Bouquet, Lauren Nichols, and Geshi Yeung.  
+**Methods:** supervised fine-tuning, demographic reconstruction, calibration analysis, behavioral evaluation.
+
 ### [Taiwan and the Philippines: growth accounting](https://github.com/laurennichols48/taiwan-philippines-growth)
 
 An empirical comparison of output per worker, capital accumulation, labor inputs and residual productivity using Penn World Table data. Includes the paper, Python notebook and exported results.
@@ -22,7 +29,3 @@ GSS and World Values Survey exercises exploring education, social beliefs, infor
 A team prototype for recommending meals using campus menus and personal preferences. My work involved a menu web scraper and chatbot interface. This case study includes the original demo link; the dining source code has not been recovered.
 
 **Focus:** menu parsing, conversational recommendations, preference-based ranking.
-
-## Collaborative ML research
-
-**Evaluating synthetic LLM populations:** I worked on model training and evaluation for a team project studying demographic alignment, calibration and behavioral validity. The research repository is currently private.
